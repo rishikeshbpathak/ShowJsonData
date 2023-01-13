@@ -1,0 +1,28 @@
+.dataRow {
+            border-radius: 20px !important;
+        }
+         .serial_No {
+            text-align: center;
+            /* margin: auto 0px 0px -30px;*/
+            padding: 1px;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            color: white;
+            font-weight: 600;
+            font-size: 50px;
+        }
+         .btn-1 {
+            background-color: #ff9044;
+            border: solid 1px #ff9044
+        }
+        .btn-1:hover {
+            background-color: #ff9044;
+            border: solid 1px #ff9044;
+            color: white;
+        }
+        .hide_A{
+   display: none;
+   }
+   .show_a{
+   display: block;
+   }
